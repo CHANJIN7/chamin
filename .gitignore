@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+.idea
+launch.json
+settings.json
+FONT/
+*.png
+fontpython/experiments
+*.pyc
+fontpython/data
+*.gif
+*.sh
+baseline_checkpoint/
+*.ini
